@@ -1,4 +1,4 @@
-                        This Is A Simple Explanation Of The NextGen Mobile Site
+                        This is a Simple Explanation of The NextGen Mobile Site
 
 Please note that download all folders in GitHub repository and put those into a new folder named as "PhoneShop" and save the PhoneShop folder in xampp htdocs.
 
