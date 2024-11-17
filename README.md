@@ -104,16 +104,16 @@ Contact Us Page
 Payment Page
 ![Screenshot 2024-11-15 085424](https://github.com/user-attachments/assets/eed191ed-4fdb-4476-af0c-625424fc7eb8)
 
-About Us Page
+Shopping Cart Page
 ![Screenshot 2024-11-17 085852](https://github.com/user-attachments/assets/16ec2b06-46df-463f-9aae-6cc4128d013d)
 
-Privacy Policy Page
+About Us Page
 ![Screenshot 2024-11-15 085448](https://github.com/user-attachments/assets/340355d5-92d5-4e03-b4fc-9989e607419c)
 
-Terms Of Services Page
+Privacy Policy Page
 ![Screenshot 2024-11-15 085506](https://github.com/user-attachments/assets/7218392c-1b3f-417b-9014-cf49b0b93161)
 
-Shopping Cart Page
+Terms Of Services Page
 ![Screenshot 2024-11-15 085516](https://github.com/user-attachments/assets/46617a48-3d84-4ba7-8f34-0e60aa2a92e1)
 
 NextGen Footer Section
