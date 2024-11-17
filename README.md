@@ -48,7 +48,7 @@ NextGen Mobile Phone Shop having 20 Pages There are,
 
 20) Xiaomi Product Page
 
-                        Screen Shots Of The NextGen Mobile Phone Shop Web Site
+                        Screen Shots of The NextGen Mobile Phone Shop Web Site
 
 Login Page
 ![Screenshot 2024-11-15 085000](https://github.com/user-attachments/assets/dab07d1b-9dd6-4e0b-b949-bc24fbf40885)
