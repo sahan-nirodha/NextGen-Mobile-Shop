@@ -122,7 +122,7 @@ NextGen Footer Section
 NextGen Database Inside Php MyAdmin
 ![Screenshot 2024-11-15 085755](https://github.com/user-attachments/assets/2199c03c-0e06-428e-aef9-66f56a4f94fd)
 
-                    Video Demonstration Of The NextGen Mobiles
+                    Video Demonstration of The NextGen Mobiles
               
 Video Demonstration Part 01         https://youtu.be/k3b-WB1FSOQ
 
