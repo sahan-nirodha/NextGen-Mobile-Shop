@@ -116,6 +116,9 @@ Privacy Policy Page
 Terms Of Services Page
 ![Screenshot 2024-11-15 085516](https://github.com/user-attachments/assets/46617a48-3d84-4ba7-8f34-0e60aa2a92e1)
 
+                Mobile Views Of The NextGen Mobile Site
+![Screenshot 2024-11-18 003011](https://github.com/user-attachments/assets/7c746d1f-573f-4665-a8b1-9aba3fb9d6bb) ![Screenshot 2024-11-18 002704](https://github.com/user-attachments/assets/03608870-4d85-4da4-b62c-81a71cffe794)
+
 NextGen Footer Section
 ![Screenshot 2024-11-15 091334](https://github.com/user-attachments/assets/170c64d6-bba8-4031-a13c-47c2b331d2f9)
 
