@@ -1,4 +1,4 @@
-            This Is A Simple Explanation Of The NextGen Mobile Site
+                        This Is A Simple Explanation Of The NextGen Mobile Site
 
 Please note that download all folders in GitHub repository and put those into a new folder named as "PhoneShop" and save the PhoneShop folder in xampp htdocs.
 
@@ -47,5 +47,7 @@ NextGen Mobile Phone Shop having 20 Pages There are,
 19) Oppo Product Page
 
 20) Xiaomi Product Page
+
+                        Screen Shots Of The NextGen Mobile Phone Shop Web Site
 
 
